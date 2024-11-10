@@ -1,0 +1,6 @@
+*.o
+*.d
+*.bin
+config.h
+.vscode/
+.pio/
