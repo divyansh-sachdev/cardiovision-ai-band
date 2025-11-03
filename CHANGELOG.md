@@ -1,0 +1,1 @@
+- **2025-11-03 14:40:48**: perf: tune FreeRTOS task priority to eliminate frame drops
