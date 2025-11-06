@@ -1,1 +1,2 @@
 - **2025-11-03 14:40:48**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2025-11-06 19:43:44**: docs: clarify licensing and hardware bill of materials
