@@ -2,3 +2,4 @@
 - **2025-11-06 19:43:44**: docs: clarify licensing and hardware bill of materials
 - **2025-11-07 16:32:10**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-11-09 11:38:33**: docs: document serial protocol packet structure and error codes
+- **2025-11-09 20:55:42**: feat: add EEPROM configuration persistence for user settings
