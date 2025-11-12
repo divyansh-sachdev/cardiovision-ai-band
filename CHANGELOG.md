@@ -4,3 +4,4 @@
 - **2025-11-09 11:38:33**: docs: document serial protocol packet structure and error codes
 - **2025-11-09 20:55:42**: feat: add EEPROM configuration persistence for user settings
 - **2025-11-10 19:07:50**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-11-12 14:07:32**: feat: add EEPROM configuration persistence for user settings
