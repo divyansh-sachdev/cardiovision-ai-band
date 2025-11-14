@@ -6,3 +6,4 @@
 - **2025-11-10 19:07:50**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-11-12 14:07:32**: feat: add EEPROM configuration persistence for user settings
 - **2025-11-12 20:26:21**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-11-14 14:09:39**: fix: calibrate baseline sensor offset against reference multimeter
