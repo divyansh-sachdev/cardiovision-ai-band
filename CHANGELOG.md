@@ -8,3 +8,4 @@
 - **2025-11-12 20:26:21**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-11-14 14:09:39**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-11-14 19:45:21**: feat: add hardware failsafe watchdog timer routine
+- **2025-11-18 10:53:22**: refactor: modularize signal processing functions into separate header
