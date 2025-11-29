@@ -12,3 +12,4 @@
 - **2025-11-26 17:33:12**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-11-27 21:32:27**: test: validate thermal stability over continuous 6-hour test run
 - **2025-11-28 21:48:38**: feat: add EEPROM configuration persistence for user settings
+- **2025-11-29 17:28:34**: feat: add visual status LED pulse code for diagnostic mode
