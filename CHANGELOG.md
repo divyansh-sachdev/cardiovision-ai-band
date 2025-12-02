@@ -15,3 +15,4 @@
 - **2025-11-29 17:28:34**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-12-01 21:13:43**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-12-02 10:52:21**: fix: handle edge case timeout in sensor initialization loop
+- **2025-12-02 16:20:17**: feat: add hardware failsafe watchdog timer routine
