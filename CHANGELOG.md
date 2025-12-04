@@ -18,3 +18,4 @@
 - **2025-12-02 16:20:17**: feat: add hardware failsafe watchdog timer routine
 - **2025-12-03 16:50:38**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-12-03 20:12:26**: feat: implement low-power light sleep mode during idle intervals
+- **2025-12-04 11:33:21**: feat: implement moving average filter for noise suppression
