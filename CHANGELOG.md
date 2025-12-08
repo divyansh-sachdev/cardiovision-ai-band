@@ -20,3 +20,4 @@
 - **2025-12-03 20:12:26**: feat: implement low-power light sleep mode during idle intervals
 - **2025-12-04 11:33:21**: feat: implement moving average filter for noise suppression
 - **2025-12-08 14:55:33**: fix: resolve floating point conversion precision issue
+- **2025-12-08 16:15:50**: test: benchmark inference execution speed on ESP32 dual-core
