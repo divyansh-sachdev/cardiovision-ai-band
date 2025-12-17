@@ -23,3 +23,4 @@
 - **2025-12-08 16:15:50**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-12-09 15:55:18**: docs: add circuit wiring pinout and power consumption profile
 - **2025-12-12 18:50:40**: feat: implement moving average filter for noise suppression
+- **2025-12-17 14:32:42**: docs: clarify licensing and hardware bill of materials
