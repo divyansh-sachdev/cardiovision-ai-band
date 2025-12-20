@@ -24,3 +24,4 @@
 - **2025-12-09 15:55:18**: docs: add circuit wiring pinout and power consumption profile
 - **2025-12-12 18:50:40**: feat: implement moving average filter for noise suppression
 - **2025-12-17 14:32:42**: docs: clarify licensing and hardware bill of materials
+- **2025-12-20 16:10:26**: fix: handle edge case timeout in sensor initialization loop
