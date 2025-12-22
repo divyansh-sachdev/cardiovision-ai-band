@@ -27,3 +27,4 @@
 - **2025-12-20 16:10:26**: fix: handle edge case timeout in sensor initialization loop
 - **2025-12-21 11:37:20**: feat: add hardware failsafe watchdog timer routine
 - **2025-12-21 16:44:44**: fix: resolve floating point conversion precision issue
+- **2025-12-22 21:26:46**: docs: update README setup instructions and dependencies
