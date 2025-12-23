@@ -28,3 +28,4 @@
 - **2025-12-21 11:37:20**: feat: add hardware failsafe watchdog timer routine
 - **2025-12-21 16:44:44**: fix: resolve floating point conversion precision issue
 - **2025-12-22 21:26:46**: docs: update README setup instructions and dependencies
+- **2025-12-23 10:36:50**: fix: calibrate baseline sensor offset against reference multimeter
