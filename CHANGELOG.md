@@ -30,3 +30,4 @@
 - **2025-12-22 21:26:46**: docs: update README setup instructions and dependencies
 - **2025-12-23 10:36:50**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-12-23 21:21:23**: refactor: clean up debug logs and serial telemetry
+- **2025-12-25 17:43:19**: perf: tune FreeRTOS task priority to eliminate frame drops
