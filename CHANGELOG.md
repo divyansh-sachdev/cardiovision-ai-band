@@ -34,3 +34,4 @@
 - **2025-12-27 15:14:16**: feat: implement low-power light sleep mode during idle intervals
 - **2025-12-28 14:25:46**: feat: add hardware failsafe watchdog timer routine
 - **2025-12-30 18:37:39**: feat: implement low-power light sleep mode during idle intervals
+- **2025-12-30 19:06:15**: feat: implement moving average filter for noise suppression
