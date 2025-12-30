@@ -33,3 +33,4 @@
 - **2025-12-25 17:43:19**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-12-27 15:14:16**: feat: implement low-power light sleep mode during idle intervals
 - **2025-12-28 14:25:46**: feat: add hardware failsafe watchdog timer routine
+- **2025-12-30 18:37:39**: feat: implement low-power light sleep mode during idle intervals
